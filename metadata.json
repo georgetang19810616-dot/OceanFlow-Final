@@ -1,0 +1,5 @@
+{
+  "name": "OceanFlow Manager",
+  "description": "A collaborative booking management system with role-based access control, automated week calculation, and AI-powered analytics.",
+  "requestFramePermissions": []
+}
